@@ -1,16 +1,57 @@
-# al1_bytebank
+<p align="center">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/ErichComparin/Bytebank_Flutter?style=flat-square" />
 
-A new Flutter project.
+  <img alt="Último commit" src="https://img.shields.io/github/last-commit/ErichComparin/Bytebank_Flutter?style=flat-square" />
 
-## Getting Started
+  <a href="https://github.com/ErichComparin">
+    <img alt="Feito por Erich Comparin" src="https://img.shields.io/badge/feito%20por-Erich%20Comparin-orange?style=flat-square" />
+  </a>
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<h1 align="center">
+    Bytebank
+</h1>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<!-- 🚧🚧 Em construção 🚧🚧 -->
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-autor">Autor</a>
+</p>
+
+## 💻 Sobre o projeto
+
+Projeto simples criado com Flutter.
+
+---
+
+## 🎨 Layout
+
+- Jogo
+  <img alt="TicTacToe" src="./readme/web1.jpg?raw=true">
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes tecnologias/ferramentas foram usadas na construção do projeto:
+
+-   **[Flutter](https://flutter.dev/)**
+
+---
+
+## 🧔 Autor
+
+<img alt="Erich Comparin" src="https://avatars1.githubusercontent.com/u/49964553?s=460&u=cbfeb4a52528866ecd92b23fb86afa9bf1cc4ee2&v=4" width="120px"/>
+
+**Erich Comparin**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Erich_Comparin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/erich-comparin-6923119b/)](https://www.linkedin.com/in/erich-comparin-6923119b/) [![Github Badge](https://img.shields.io/badge/-Erich_Comparin-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ErichComparin)](https://github.com/ErichComparin) [![Gmail Badge](https://img.shields.io/badge/-erich.comparin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erich.comparin@gmail.com)](mailto:erich.comparin@gmail.com)
+
+---
+
+##  Versões do README
+
+[Português 🇧🇷](./README.md)
