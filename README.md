@@ -27,13 +27,6 @@ Projeto simples criado com Flutter.
 
 ---
 
-## 🎨 Layout
-
-- Jogo
-  <img alt="TicTacToe" src="./readme/web1.jpg?raw=true">
-
----
-
 ## 🛠 Tecnologias
 
 As seguintes tecnologias/ferramentas foram usadas na construção do projeto:
